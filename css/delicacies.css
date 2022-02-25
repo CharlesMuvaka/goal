@@ -76,7 +76,7 @@
     width: 60%;
     height: 300px;
     background-size: cover;
-    background-image: url("/images/serve2.webp");
+    background-image: url("../images/serve2.webp");
     background-position: center;
     
   }
@@ -425,25 +425,25 @@
     color: black;
   }
   .sumImg{
-  background-image: url("/images/innerSGR.jpg");
+  background-image: url("../images/innerSGR.jpg");
   background-size: cover;
     height: 200px;
     width: 100%;
   }
   .sumImg1{
-    background-image: url("/images/serve4.jpeg");
+    background-image: url("../images/serve4.jpeg");
     background-size: cover;
       height: 200px;
       width: 100%;
     }
     .sumImg2{
-      background-image: url("/images/elephant.jpeg");
+      background-image: url("../images/elephant.jpeg");
       background-size: cover;
         height: 200px;
         width: 100%;
       }
       .sumImg3{
-        background-image: url("/images/sgrCrew.jpeg");
+        background-image: url("../images/sgrCrew.jpeg");
         background-size: cover;
           height: 200px;
           width: 100%;

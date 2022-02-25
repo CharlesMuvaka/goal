@@ -123,13 +123,13 @@ main{
 .featImg{
     height: 200px;
     width: 250px;
-    background-image: url("/images/nt.jpg");
+    background-image: url("../images/nt.jpg");
     background-size: cover;
 }
 .featImg2{
     height: 200px;
     width: 250px;
-    background-image: url("/images/Mt.jpeg");
+    background-image: url("../images/Mt.jpeg");
     background-size: cover;
     justify-content: space-around;
     align-items: center;
@@ -153,7 +153,7 @@ main{
 .delic{
     height: 300px;
     width: 520px;
-    background-image: url("/images/serve2.webp");
+    background-image: url("../images/serve2.webp");
     background-size: cover;
     position: absolute;
     right: 50px;
@@ -225,25 +225,25 @@ main{
     color: black;
   }
 .sumImg{
-  background-image: url("/images/innerSGR.jpg");
+  background-image: url("../images/innerSGR.jpg");
   background-size: cover;
     height: 200px;
     width: 100%;
   }
   .sumImg1{
-    background-image: url("/images/serve4.jpeg");
+    background-image: url("../images/serve4.jpeg");
     background-size: cover;
       height: 200px;
       width: 100%;
     }
     .sumImg2{
-      background-image: url("/images/elephant.jpeg");
+      background-image: url("../images/elephant.jpeg");
       background-size: cover;
         height: 200px;
         width: 100%;
       }
       .sumImg3{
-        background-image: url("/images/sgrCrew.jpeg");
+        background-image: url("../images/sgrCrew.jpeg");
         background-size: cover;
           height: 200px;
           width: 100%;
